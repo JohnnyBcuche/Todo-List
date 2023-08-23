@@ -1,0 +1,26 @@
+.todo-form {
+  padding: 16px;
+  border-radius: 10px;
+  background-color: #344955;
+  text-align: center;
+  color: #fff;
+  margin: 32px auto;
+  width: 800px;
+  max-width: 95%;
+}
+
+.confirm-form input {
+  border: 2px solid #000;
+  width: 200px;
+  padding: 5px;
+  border-radius: 2px;
+  margin: 5px;
+}
+
+.confirm-form button {
+  display: inline-block;
+  flex: 1;
+  height: 30px;
+  width: 50px;
+  font: caption;
+}

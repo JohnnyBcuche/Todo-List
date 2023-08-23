@@ -1,0 +1,9 @@
+.task-status {
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.task-status label {
+  padding: 8px;
+}
